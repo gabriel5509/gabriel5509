@@ -27,8 +27,7 @@ Sou um estudante de uma escola profissionalizante com grande interesse em **tecn
 
 ## 📂 Projetos
 
-Em breve estarei adicionando projetos pessoais e de estudos aqui. Fique à vontade para acompanhar minha evolução!
-
+- [Tinkerkad](https://github.com/gabriel5509/Tinkercad)
 ---
 
 
