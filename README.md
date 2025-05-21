@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-<!--
-**gabriel5509/gabriel5509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de uma escola profissionalizante com grande interesse em **tecnologia**, especialmente nas áreas de **sistemas embarcados**, **robótica** e **programação em Python**.
 
-Here are some ideas to get you started:
+🔧 Ainda estou no início da minha jornada, mas tenho muita **vontade de aprender**, crescer e contribuir com soluções inovadoras. Acredito que a prática e o aprendizado contínuo são os melhores caminhos para evoluir na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mim
+
+- 📚 Estudante Técnico com foco em tecnologia e inovação
+- 🤖 Interesse por sistemas embarcados e robótica  
+- 🐍 Conhecimentos iniciais em Python  
+- 🔍 Buscando oportunidades para desenvolver habilidades práticas  
+- 🎯 Comprometido em aprender e colaborar em projetos desafiadores
+
+---
+
+## 📌 O que estou aprendendo:
+
+- Fundamentos de **eletrônica aplicada à robótica**
+- Programação básica com **Python**
+- Introdução ao uso de **microcontroladores** (como Arduino e ESP32)
+- Trabalho em equipe com uso de **Git e GitHub**
+
+---
+
+## 📂 Projetos
+
+Em breve estarei adicionando projetos pessoais e de estudos aqui. Fique à vontade para acompanhar minha evolução!
+
+---
+
+
+## 📫 Contato
+
+Se quiser conversar ou saber mais sobre mim:
+
+- ✉️ Email: [gabriel.rodriigues5509@gmail.com]  
+
+---
+
+Obrigado por visitar meu perfil! 🚀
