@@ -10,7 +10,7 @@ Sou um estudante de uma escola profissionalizante com grande interesse em **tecn
 
 - 📚 Estudante Técnico com foco em tecnologia e inovação
 - 🤖 Interesse por sistemas embarcados e robótica  
-- 🐍 Conhecimentos iniciais em Python  
+- 🐍 Conhecimentos iniciais em Python e C++
 - 🔍 Buscando oportunidades para desenvolver habilidades práticas  
 - 🎯 Comprometido em aprender e colaborar em projetos desafiadores
 
